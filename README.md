@@ -12,6 +12,8 @@ Your project structure should be like that:
 You do NOT need to unzip archive, the program do this by itself. For strart working - run image_clustering.py file.
 
 Some requirements that I use in project:
+```
 tensorflow==2.7.0
 python==3.9.9
 sklearn==1.0.1
+```
