@@ -9,7 +9,7 @@ Your project structure should be like that:
 |
 |__caltech256.zip
 ```
-You do need to unzip archive, the program do this by itself. For strart working - run image_clustering.py file.
+You do NOT need to unzip archive, the program do this by itself. For strart working - run image_clustering.py file.
 
 Some requirements that I use in project:
 tensorflow==2.7.0
